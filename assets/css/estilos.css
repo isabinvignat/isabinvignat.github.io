@@ -48,3 +48,16 @@ button{
 #foto img{
     width: 100%;
 }
+
+/* Quiénes somos */
+
+#somos{
+background-color: #900C3F;
+padding: 2px;
+}
+
+h1{
+    font-family: "Josefin Sans",sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
