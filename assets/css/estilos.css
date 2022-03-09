@@ -8,6 +8,7 @@ body *{
 .navbar{
     background-color:#229954;
     width: 100%;
+    position: fixed;
 }
 
 .navbar-brand{
@@ -41,4 +42,9 @@ button{
 
 .container-fluid{
     display: inline-block;
+}
+
+/* Foto */
+#foto img{
+    width: 100%;
 }
