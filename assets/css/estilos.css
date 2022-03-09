@@ -1,5 +1,44 @@
 body *{
     margin: 0;
     padding: 0;
-    font-family: "Dosis";
+    font-family: "Dosis", sans-serif;
+}
+
+/* Navbar */
+.navbar{
+    background-color:#229954;
+    width: 100%;
+}
+
+.navbar-brand{
+    width: 20%;
+}
+
+.logo{
+    width: 10%;
+    display: inline-block;
+}
+
+button{
+    display: inline-block;
+    
+}
+
+.navbar-nav{
+    width: 70%;
+}
+.collapse{
+    width: 60%;
+    display: inline-block;
+}
+
+
+.nav-link{
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.container-fluid{
+    display: inline-block;
 }
