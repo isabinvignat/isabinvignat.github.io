@@ -54,10 +54,16 @@ button{
 #somos{
 background-color: #900C3F;
 padding: 2px;
+color: #ffffff;
 }
 
 h1{
     font-family: "Josefin Sans",sans-serif;
     text-align: center;
     color: #ffffff;
+}
+
+/* Destacados */
+.uno{
+    color: #000000;
 }
