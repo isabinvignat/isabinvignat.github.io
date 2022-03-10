@@ -37,7 +37,6 @@ button{
 .nav-link .active{
     display: inline-block;
     text-decoration: none;
-    color:#FFC300;
 }
 
 .container-fluid{
@@ -70,6 +69,11 @@ i{
 }
 
 /* Destacados */
-.uno{
-    color: #000000;
+#destacados{
+    background-color: #900C3F;
+}
+
+
+#destacados h1{
+    color: #ffffff;
 }
