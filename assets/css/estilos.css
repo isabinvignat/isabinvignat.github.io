@@ -52,15 +52,14 @@ button{
 /* Quiénes somos */
 
 #somos{
-background-color: #900C3F;
+background-color: #DAF7A6;
 padding: 2px;
-color: #ffffff;
 }
 
 h1{
     font-family: "Josefin Sans",sans-serif;
     text-align: center;
-    color: #ffffff;
+    color: #C70039;
 }
 
 i{
@@ -71,18 +70,17 @@ i{
 
 /* Destacados */
 #destacados{
-    background-color: #900C3F;
+    background-color: #DAF7A6;
 }
 
-
-#destacados h1{
+.card-text{
     color: #ffffff;
 }
 
 /* Contacto */
 #contacto{
-    background-color: #900C3F;
-    color: #ffffff;
+    background-color: #DAF7A6;
+    color: #C70039;
 }
 
 /* Footer */
@@ -90,7 +88,10 @@ i{
     background-color: #229954;
 }
 
-#footer a{
-    text-decoration: none;
-    color: #ffffff;
+#footer h1{
+    color: #000000;
+}
+
+#footer i{
+    width: 20%;
 }
