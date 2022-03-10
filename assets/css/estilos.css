@@ -63,6 +63,12 @@ h1{
     color: #ffffff;
 }
 
+i{
+    background-color: #229954;
+    text-align: center;
+    width: 100%;
+}
+
 /* Destacados */
 .uno{
     color: #000000;
