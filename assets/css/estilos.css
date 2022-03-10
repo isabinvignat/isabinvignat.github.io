@@ -16,7 +16,7 @@ body *{
 }
 
 .logo{
-    width: 10%;
+    width: 25%;
     display: inline-block;
 }
 
@@ -34,10 +34,10 @@ button{
 }
 
 
-.nav-link{
+.nav-link .active{
     display: inline-block;
     text-decoration: none;
-    color: #ffffff;
+    color:#FFC300;
 }
 
 .container-fluid{
