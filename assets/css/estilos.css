@@ -44,7 +44,7 @@ button{
 }
 
 /* Carousel */
-#foto img{
+#carousel{
     width: 100%;
 }
 
@@ -81,5 +81,15 @@ i{
 /* Contacto */
 #contacto{
     background-color: #900C3F;
+    color: #ffffff;
+}
+
+/* Footer */
+#footer{
+    background-color: #229954;
+}
+
+#footer a{
+    text-decoration: none;
     color: #ffffff;
 }
