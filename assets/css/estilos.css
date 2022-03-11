@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: auto !important;
+}
+
 body *{
     margin: 0;
     padding: 0;
@@ -14,6 +18,7 @@ body *{
 
 .navbar-brand{
     width: 20%;
+    font-weight: 700;
 }
 
 .logo{
