@@ -1,0 +1,5 @@
+proyecciones= File.open("proyecciones.rb", mode: 'r')
+lines.each do |line|
+puts line.to_f.round
+proyecciones.close
+end
